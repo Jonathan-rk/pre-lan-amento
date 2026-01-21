@@ -5,6 +5,7 @@ import {
   TrendingUp, 
   Layout, 
   ShieldCheck,
+  Shield,
   CheckCircle2,
   Menu,
   X,
@@ -23,6 +24,7 @@ import {
   Zap,
   CreditCard
 } from 'lucide-react';
+
 import styles from './App.module.css';
 import { useScrollReveal } from './hooks/useScrollReveal';
 import { TiltCard } from './components/TiltCard';
