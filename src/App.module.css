@@ -1191,7 +1191,7 @@
   .priceContainer { order: 2; margin-bottom: 0.5rem; justify-content: flex-start; }
   .pricingCardDesc { order: 3; margin-top: 0 !important; margin-bottom: 2rem; text-align: left; }
   .mobileOnlyList { order: 4; display: block; width: 100%; margin-bottom: 2rem; margin-top: 0 !important; }
-  .priceBtn { order: 5; margin-top: 1rem; width: fit-content; min-width: 250px; }
+  .priceBtn { order: 5; margin-top: 1rem; width: 100%; }
   .trustCopy { order: 6; margin-top: 1.5rem; opacity: 0.6; justify-content: flex-start; }
   
   .premiumCardDivider { display: none; } /* Hide divider on mobile */
